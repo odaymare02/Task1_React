@@ -1,5 +1,7 @@
-export default function Client(){
-    return <h2>
-        this is Clients
-    </h2>
+export default function Client() {
+  return (
+    <section>
+      <h2>this is Clients</h2>
+    </section>
+  );
 }
